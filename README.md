@@ -73,7 +73,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/Adhiccup/python_blockchain_app" target="_blank"> <img alt="DApp" src="./projects/dApp.svg" height="68" align="left"> </a>
-<a href="https://github.com/Adhiccup/GetOldTweets" target="_blank"> <img alt="get old twitter" src="./projects/twitter-old-logo.svg"  height="68" align="left"> </a>
-<a href="https://github.com/Adhiccup/python-goose" target="_blank"> <img alt="goose" src="./projects/goose.svg" height="68" align="left"> </a>
-<a href="https://github.com/Adhiccup/chat-app" target="_blank"> <img alt="chatApp" src="./projects/chatApp.png" height="68" align="left"> </a>
+<a href="https://github.com/Adhiccup/python_blockchain_app" target="_blank"> <img alt="DApp" src="./project/dApp.svg" height="68" align="left"> </a>
+<a href="https://github.com/Adhiccup/GetOldTweets" target="_blank"> <img alt="get old twitter" src="./project/twitter-old-logo.svg"  height="68" align="left"> </a>
+<a href="https://github.com/Adhiccup/python-goose" target="_blank"> <img alt="goose" src="./project/goose.svg" height="68" align="left"> </a>
+<a href="https://github.com/Adhiccup/chat-app" target="_blank"> <img alt="chatApp" src="./project/chatApp.png" height="68" align="left"> </a>
