@@ -9,13 +9,14 @@
 <a href="mailto:admongd99@gmail.com">
   <img align="left" alt="Adhiccup gmail" width="22px" src="https://user-images.githubusercontent.com/133824278/241817629-7b0877a7-f6c3-4730-88ff-d2aa10756694.svg" />
 </a>
-
+<br/>
+<br/>
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/133824278/241818043-b841d1c5-fb7e-4722-bfcb-68c14bf2d799.gif" width="500" height="320" />
   
 ### 🧐 More About Me:
 
