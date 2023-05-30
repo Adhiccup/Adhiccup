@@ -33,6 +33,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br/>
 <br/>
+<br>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/133824278/241818076-781b1566-6f55-4b05-8183-f22ae53ceb50.gif" width="360px"/>
 
@@ -51,6 +52,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/133824278/241878012-74f80319-37b6-4e49-a82c-ee0fcdfe0ad4.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/133824278/241878004-b3ed55f1-44c1-4152-9a34-d8af33e98700.svg" alt="figma" height='42px'/> </a>
 
+<br>
+<br>
 <br>
 <br>
 <br>
