@@ -52,6 +52,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/133824278/241878004-b3ed55f1-44c1-4152-9a34-d8af33e98700.svg" alt="figma" height='42px'/> </a>
 
 <br>
+<br>
+<br>
 
 
 ### 📊 Github Stats
