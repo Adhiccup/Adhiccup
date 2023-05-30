@@ -57,8 +57,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 📊 Github Stats
 <a href='https://github.com/Adhiccup/github-stats'>
   
-![Stats Overview](https://raw.githubusercontent.com/Adhiccup/github-stats/master/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Adhiccup/github-stats/master/generated/languages.svg)
+![Stats Overview](https://raw.githubusercontent.com/Adhiccup/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/Adhiccup/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </a>
 
