@@ -31,6 +31,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/133824278/241818076-781b1566-6f55-4b05-8183-f22ae53ceb50.gif" width="360px"/>
+
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
