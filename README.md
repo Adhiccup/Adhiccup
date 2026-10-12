@@ -28,7 +28,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [Skype](https://join.skype.com/invite/qheQtk8cWKgD)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/)
 
 <br>
 <br/>
